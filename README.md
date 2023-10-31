@@ -16,13 +16,10 @@
 ## Descrição
 A aplicação permite ao usuário pesquisar pelos filmes e ver detalhes sobre eles, como descrição, popularidade, notas, etc.
 
-## Requisitos
-Tenha o npm e o node Js instalados na sua máquina
-
 ## Importante 
 Esta aplicação ainda não está na sua fase final e pode sofrer alterações.
 
-#### Como iniciar a aplicação na sua máquina
+## Como iniciar a aplicação na sua máquina
 1. Estando dentro do diretório frontend, execute o comando $ npm install.
 2. No diretórios raíz do projeto, crie o arquivo .env com a variável VITE_API_KEY do arquivo .env.example.
 3. Por fim, execute o comando $ npm run dev.   
